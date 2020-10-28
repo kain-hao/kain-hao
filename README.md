@@ -9,7 +9,7 @@
 
 ![](https://s1.ax1x.com/2020/10/28/B108xg.png)
 
-###About me:
+### About me
 - 🌏Trying to become a open-sourcer but there are nothing I could share LOL
 - 🐳I could speak Chinese,Russian and English.
 - 🍺 I used to keep a blog in both Chinese and English but the server was burnt down because my neighbor burnt his house...
@@ -17,7 +17,7 @@
 - 🀄I don't have much time to use Github so wait for my reply if you have anything to do with me or just ignore me...
 - 📷Love travelling.
 
-###Contact 
+### Contact 
 Email me at kain@geekore.ink or kainhao@foxmail.com.
 
 QQ: 2427715746
