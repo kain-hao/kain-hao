@@ -18,7 +18,7 @@
 - 📷Love travelling.
 
 ### Contact 
-Email me at kain@geekore.ink or kainhao@foxmail.com.
+Email me at kainhao@foxmail.com.
 
 QQ: 2427715746
 Telegram：Kain Clinton *(Maybe I'll go online for once per year LOL)*
